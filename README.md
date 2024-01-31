@@ -1,5 +1,6 @@
 This project focuses on object detection using YOLOv8, the latest iteration of the YOLO algortihm. 
 
+Please access the notebook "WARP-D Object Detection Model.ipynb" to start. 
 
 The dataset comes from Kaggle(https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset), and is a Waste Recycling Plant (WaRP) dataset, and it contains images from an industrial source plant. It contains 3 main folders, each with their own specific purpose: Detection (WaRP-D), Segmentation (WaRP-S), and Classification (WaRP-C). 
 
